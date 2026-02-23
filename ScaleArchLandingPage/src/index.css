@@ -1,0 +1,22 @@
+body {
+    background-color: #F7F8FA;
+}
+
+h1 {
+    text-align: center;
+    color: #1F3A5F;
+    font-size: 100px;
+    font-weight: bold;
+    font-family: "Fonts/HelveticaNeue-Bold.ttf";
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+
+h2 {
+    text-align: center;
+    color: #6B7280;
+    font-size: 30px;
+    font-weight: normal;
+    font-family: "Fonts/Source Sans Pro/SourceSansPro-Regular.ttf";
+    margin-top: -5px;
+}
