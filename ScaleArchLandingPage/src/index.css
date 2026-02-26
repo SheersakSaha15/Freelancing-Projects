@@ -5,18 +5,125 @@ body {
 h1 {
     text-align: center;
     color: #1F3A5F;
-    font-size: 100px;
+    font-size: 150px;
     font-weight: bold;
-    font-family: "Fonts/HelveticaNeue-Bold.ttf";
-    margin-top: 50px;
+    font-family: "Fonts/Helvetica/helvetica neue/helvetica-neue-5/HelveticaNeue-Bold.ttf";
+    margin-top: 150px;
     margin-bottom: 20px;
 }
 
 h2 {
     text-align: center;
     color: #6B7280;
-    font-size: 30px;
+    font-size: 55px;
     font-weight: normal;
     font-family: "Fonts/Source Sans Pro/SourceSansPro-Regular.ttf";
     margin-top: -5px;
+}
+
+.desc {
+    text-align: center;
+    color: #1F2933;
+    font-size: 30px;
+    font-weight: normal;
+    font-family: "Fonts/Manrope/manrope-3/Manrope-Regular.ttf";
+    margin-top: 80px;
+}
+
+hr {
+    border: none;
+    border-top: 2.5px solid #C2A46D;
+    margin: 225px auto;
+    width: 90%;
+}
+
+h3 {
+    text-align: center;
+    color: #1F3A5F;
+    font-size: 55px;
+    font-weight: bold;
+    font-family: "Fonts/Helvetica/helvetica neue/helvetica-neue-5/HelveticaNeue-Heavy.ttf";
+    padding-bottom: 40px;
+}
+
+.shortnote {
+    text-align: center;
+    color: #1F2933;
+    font-size: 30px;
+    font-weight: normal;
+    font-family: "Fonts/Manrope/manrope-3/Manrope-Regular.ttf";
+    margin-top: 70px;
+    margin-bottom: 80px;
+}
+
+.tag {
+    text-align: center;
+    color: #1F2933;
+    font-size: 30px;
+    font-weight: normal;
+    font-family: "Fonts/Manrope/manrope-3/Manrope-Regular.ttf";
+}
+
+.sb {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    gap: 20px;
+    color: #1F2933;
+    justify-content: center;
+    max-width: 1300px;
+    margin: auto;
+}
+
+.sb li {
+    flex: 1;
+    padding: 20px;
+    border: 2px solid #C2A46D;
+    text-align: center;
+    font-size: 25px;
+    font-family: "Fonts/Inter/inter/Inter-Regular.otf";
+}
+
+.sb li p {
+    font-size: 20px;
+    font-family: "Fonts/Manrope/manrope-3/Manrope-Regular.ttf";
+}
+
+h4 {
+    text-align: center;
+    color: #1F3A5F;
+    font-size: 60px;
+    font-weight: bold;
+    font-family: "Fonts/Helvetica/helvetica neue/helvetica-neue-5/HelveticaNeue-Heavy.ttf";
+}
+
+.highlight {
+    color: #6B7280;
+    margin-left: 120px;
+    margin-bottom: 50px;
+    font-size: 40px;
+    font-family: "Fonts/Source Sans Pro/SourceSansPro-Regular.ttf";
+}
+
+.working {
+    color: #1F2933;
+    margin-left: 150px;
+    font-size: 25px;
+    font-family: "Fonts/Manrope/manrope-3/Manrope-Regular.ttf";
+}
+
+.approach {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+h5 {
+    text-align: center;
+    color: #1F3A5F;
+    font-size: 80px;
+    font-weight: bold;
+    font-family: "Fonts/Helvetica/helvetica neue/helvetica-neue-5/HelveticaNeue-Heavy.ttf";
+    margin-bottom: 80px;
 }
