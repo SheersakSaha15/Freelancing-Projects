@@ -11,8 +11,8 @@ function App() {
       <h3>Helping businesses grow with clarity and structure</h3>
       <p class="shortnote">
         Businesses often reach a stage where growth creates new complexity —<br />across markets, processes,
-        finance and leadership bandwidth.<br /><br />ScaleArch works with leadership teams to align strategy, execution and
-        organisational<br />capability so that growth remains sustainable and scalable.
+        finance and leadership bandwidth.<br /><br />ScaleArch works with leadership teams to align strategy,
+        execution and organisational<br />capability so that growth remains sustainable and scalable.
       </p>
       <p class="tag">Our work typically spans:</p>
       <ul class="sb">
@@ -25,7 +25,10 @@ function App() {
         </li>
         <li>
           Business Process &<br />Transformation
-          <p>Strengthening operating processes and<br />preparing organisations for digitisation<br />and organisational scale.</p>
+          <p>
+            Strengthening operating processes and<br />preparing organisations for digitisation<br />and organisational
+            scale.
+          </p>
         </li>
         <li>
           Governance, Capability &<br />Market Expansion
@@ -60,9 +63,9 @@ function App() {
       <h5>Founders</h5>
       <p class="highlight">Operator-led experience</p>
       <p class="working">
-        ScaleArch is founded by senior business leaders with extensive experience in building and managing large-scale<br />
-        operations across industries. The founding team brings complementary expertise across business leadership, finance
-        <br />and governance and technology-led operations.
+        ScaleArch is founded by senior business leaders with extensive experience in building and managing large-scale
+        <br />operations across industries. The founding team brings complementary expertise across business leadership,
+        finance<br />and governance and technology-led operations.
       </p>
     </>
 
