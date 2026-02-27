@@ -83,7 +83,15 @@ h3 {
     text-align: center;
     font-size: 25px;
     font-family: "Fonts/Inter/inter/Inter-Regular.otf";
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
+
+.sb li:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.15);
+    border-color: #d79927;
+}
+
 
 .sb li p {
     font-size: 20px;
